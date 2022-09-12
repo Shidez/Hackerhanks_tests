@@ -1,5 +1,6 @@
-
 N = int(input())
+
+#teste de versão
 
 lista = []
 
